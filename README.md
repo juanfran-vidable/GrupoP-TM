@@ -12,12 +12,14 @@ HIPÓTESIS
 
 Con un grupo de 5 programadores realizar un producto sencillo que implemente un lenguaje de programación que no esté familiarizado con los ya instruidos dentro del cursado,el producto será innovador y original.
 También contará con el uso de GitHub.Para adentrarnos en ámbito de programar dentro de un grupo, es decir ,trabajando en equipo ,permitiendo la reducción de tiempo en el desarrollo pero poniendo a prueba una forma de trabajo la cual no había sido llevada a cabo por la mayoría del grupo.
+
+
 OBJETIVOS DEL PROYECTO
 
-Implementar mejoras para la inteligencia de la “máquina”
-Implementar nuevas mecánicas de juego
-Llegar a las cantidad como mínimo a la cantidad de 500 líneas de código
-Utilizar de manera más eficiente con lo aprendido herramientas como Github ,Git.
+-Implementar mejoras para la inteligencia de la “máquina”
+-Implementar nuevas mecánicas de juego
+-Llegar a las cantidad como mínimo a la cantidad de 500 líneas de código
+-Utilizar de manera más eficiente con lo aprendido herramientas como Github ,Git.
 
 EXPLICACIÓN DEL PROYECTO
 
