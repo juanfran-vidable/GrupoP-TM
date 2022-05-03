@@ -17,8 +17,11 @@ También contará con el uso de GitHub.Para adentrarnos en ámbito de programar 
 OBJETIVOS DEL PROYECTO
 
 -Implementar mejoras para la inteligencia de la “máquina”
+
 -Implementar nuevas mecánicas de juego
+
 -Llegar a las cantidad como mínimo a la cantidad de 500 líneas de código
+
 -Utilizar de manera más eficiente con lo aprendido herramientas como Github ,Git.
 
 EXPLICACIÓN DEL PROYECTO
