@@ -1,6 +1,6 @@
 # GrupoP-TM
 ### Integrantes: Contreras, Vidable, Lozano, Funes, Alvarez 
-<h1 align="center"> Rodrimon Combat </h1>
+<h1 align="center"> Rodreamon Combat </h1>
 
 INTRODUCCIÓN
 
