@@ -24,6 +24,8 @@ OBJETIVOS DEL PROYECTO
 
 -Utilizar de manera más eficiente con lo aprendido herramientas como Github ,Git.
 
+-Implementar el lenguaje de programacion python
+
 EXPLICACIÓN DEL PROYECTO
 
 El proyecto consiste en un videojuego de estrategia por turnos inspirado en el mundo de "Pokemon", el usuario se enfrentará a una inteligencia artificial, dónde cada jugador tendrá su colección de pokemones y deberán enfrentarse en una batalla. Para obtener la victoria, hay que planear una estrategia; tales como el uso de objetos de batalla y movimientos. 
