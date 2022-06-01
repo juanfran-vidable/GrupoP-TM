@@ -2,9 +2,6 @@
 ### Integrantes: Contreras, Vidable, Lozano, Funes, Alvarez 
 <h1 align="center"> Rodremon Combat </h1>
 
-INTRODUCCIÓN
-
-La mayoría de los juegos con un sistema de combate por turnos ,en donde se enfrentan variedad de adversarios que poseen equipos ,con composiciones diferentes, cuentan con un nivel de dificultad muy simple,es decir la mayor parte del juego es un paseo, por lo tanto , mejorar su inteligencia artificial haría que más gente quiera disfrutar del contenido, solo por el hecho del desafío que conlleva. Implementando nuevas mecánicas en el combate y mejorando la respuesta de la máquina, daría un giro interesante a este tipo de juegos, que es en lo va consistir este proyecto
 
 HIPÓTESIS
 
@@ -24,4 +21,4 @@ OBJETIVOS DEL PROYECTO
 
 EXPLICACIÓN DEL PROYECTO
 
-El proyecto consiste en un videojuego de combate por turnos inspirado en el mundo de "Pokemon", el usuario se enfrentará a una inteligencia artificial, dónde cada jugador tendrá su colección de 6 pokemones y deberán enfrentarse en una batalla. Para obtener la victoria, hay que planear una estrategia; tales como el uso de objetos de batalla, movimientos, debilidades y fortalezas ante los tipos elementales de cada pokemon. El uso de objetos es limitado, aquí es donde entra la estrategia, donde, deberás usar movimientos que favorezcan la balanza a tu lugar, sin desperdiciar los turnos. Por cada turno, tanto el jugador como la maquina deberan elegir una opcion de combate como atacar, usar objetos o cambiar de pokemon. Por consecuenca, cada opcion consumira el turno, ejecutandose por orden de prioridad, es decir, los objetos primero, luego los cambios y finalmente los movimientos de ataque variando este ultimo por las estadisticas de los pokemones(el mas rapido ataca primero), donde cada ataque restará vida dependiendo tambien de las estadisticas de cada pokemon. Si el pokemon llega a 0 puntos de vida, queda fuera de combate. La partida termina cuando todos los pokemones de la maquina o del jugador quedan fuera de combate.
+El proyecto consiste en un videojuego de tablero por turnos, en un tablero de ajedrez, habran 2 jugadores donde se podrá seleccionar cómo jugar, Jugador contra Jugador o Jugador contra IA, pudiendo modificar la dificultad de este. Cada jugador cuenta con 4 fichas reinas, donde tendrá 2 movimientos, uno para moverse y otro para bloquear una posicion en el tablero, con sus respectivos movimientos de reina en un ajedrez, el objetivo para ganar es dejar al otro jugador sin movimientos.
